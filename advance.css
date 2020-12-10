@@ -1,0 +1,80 @@
+a{
+    text-align: right;
+}
+#lab{
+    font-size: 25px;
+    color: #d93025;
+    margin-left: 50px;
+}
+label{
+    margin-left: 50px;
+    font-size: 19px;
+}
+#gsearch{
+    margin-left: 50px;
+    font-size: 16;
+}
+#alert{
+    background-color:#f2f2f2;
+}
+#ggl{
+    margin-top: 8px;
+}
+input{
+    height:30px;
+    width: 500px;
+    font-size:16px;
+}
+#t1{margin-left: 80px;}  
+#t2{margin-left: 8px;}
+#t3{margin-left: 52px;} 
+#t4{margin-left: 41px;}   
+#button{
+    background-color: #4d90fe;
+    color: white;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    margin-left: 546px;
+    border: transparent;
+}
+#button:hover{
+    background-color:#007bff;
+}
+
+#end{
+    height: 60px;
+    width: 1920px;
+    background-color: #c6ccd4;
+}
+#endlf{
+    font-size: 15px;
+    margin-left: 40px;
+    color:#70757a;
+}
+#endl{
+    font-size: 15px;
+    margin-left: 10px;
+    color:#70757a;
+
+}
+#endpage{
+    text-align: left;
+    background-color:#f2f2f2;
+    height: 90px;
+}
+#india{
+    padding-top: 100px;
+    font-size: 15px;
+    margin-left: 40px;
+    color: #70757a;
+}
+#ex{
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#todo{
+    margin-left: 555px;
+    font-size: 17px;
+}
